@@ -1,16 +1,14 @@
-## Sprintstart 2 - Team 1 - 01.12.2020
+## Sprintende 2 - 15.12.2020
 
-| Stand | Wann        | Was | Was genau                                   | Wer                | Wo         |
-| ----- | ----------- | --- | :------------------------------------------ | :----------------- | :--------- |
-| ✔️     | 15:45-15:50 |     | Begrüßung                                   | coaches            | general    |
-| ✔️     | 15:50-16:00 | SP1 | Erklärung des Schätzverfahrens              | SM                 | team-po-sm |
-| ✔️     | 16:00-17:00 | SP1 | Vorstellung der Stories und Diskussion      | PO                 | team-po-sm |
-| ✔️     | 17:00-17:15 | SP1 | Vorläufige Entscheidung für Sprint Scope    | Dev Team + PO      | team-po-sm |
-| ✔️     | 17:15-17:30 |     | Pause                                       | alle               |            |
-| ✔️     | 17:30-17:35 | SP2 | Einführung ins Sprint Planning              | SM                 | team-sm    |
-| ✔️     | 17:35-18:55 | SP2 | Erstellung & Schätzen der Subtasks          | Dev Team           | team-sm    |
-| ✔️     | 18:55-19:00 | SP2 | Sprintgültige Entscheidung für Sprint Scope | Dev Team + SM + PO | team-po-sm |
-
+| Stand | Wann        | Was genau          | Verantwortlich | Teilnehmer                    | Wo               |
+| ----- | ----------- | :----------------- | :------------- | :---------------------------- | :--------------- |
+| ⏳     | 15:45-15:50 | Begrüßung          | Coaches        | alle                          | general          |
+| ⏳     | 15:50-16:30 | Sprint Show Team 1 | Dev Team 1     | Dev Team 1 + Philip + Robert  | team1/team-po-sm |
+| ⏳     | 16:35-17:15 | Sprint Show Team 2 | Dev Team 2     | Dev Team 2 + Marius + Patrick | team2/team-po-sm |
+| ⏳     | 17:15-17:30 | _Pause_            |                |                               |                  |
+| ⏳     | 17:30-18:55 | Retro              | SM             | alle                          | team-po-sm       |
+| ⏳     | 18:55-19:00 | Abschluss          | Coaches        | alle                          | general          |
+  
 ---
 Legende:  
 ⏳ noch nicht begonnen  
